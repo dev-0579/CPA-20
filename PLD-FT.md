@@ -62,13 +62,47 @@ que, geralmente, lidam com bens de alto valor, assim como atividades que têm vu
 
 
 
+#
+
+#
+
+Conselho de Controle de Atividades Financeiras (Coaf): 
+
+- ligado ao Ministério da Fazenda e formado por integrantes de vários órgãos do governo
+- Coaf tem a função de receber, examinar e identificar operações financeiras suspeitas
+- Desde 2003, os bancos são obrigados a informar ao Coaf sobre saques e depósitos acima de 100 mil reais (Brasil, 2023a)
 
 
+#
+
+O Coaf é responsável por receber as denúncias. Antes de verificar como são feitos os comunicados e quais são as instruções de combate,
+acompanhe como funciona a lei para a prevenção (Brasil, 2021).
+
+#
+
+#
+
+Grupo de Ação Financeira (GAFI/FATF):
+
+- órgão intergovernamental contra a lavagem de dinheiro, criado em 1989
+- com o objetivo de examinar medidas, desenvolver e promover políticas para prevenir e
+- combater a lavagem de dinheiro e o financiamento do terrorismo (Brasil, 2022b)
 
 
+#
+
+**O Coaf é responsável por receber as denúncias**
+
+#
+
+#
+
+<img width="742" alt="image" src="https://github.com/user-attachments/assets/f10e8cfb-373a-46a2-a301-0c51db44b1a2" />
 
 
+#
 
+#
 
 
 
