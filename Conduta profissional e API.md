@@ -230,17 +230,88 @@ Essa ação é feita de forma transparente e regulada, com finalidade legítima 
 O agente que insere a ordem em questão nos mercados organizados de valores mobiliários não tem a intenção de realizar tal operação.\
 apenas deseja inserir um elemento de desinformação no mercado a fim de influenciar o comportamento dos demais agentes e o preço do ativo
 
+#
+
+Ciclo clássico do spoofing é composto por cinco etapas:
+
+1. insere nos livros de oferta que deseja executar
+2. insere outra oferta, significativamente maior do outro lado do livreo
+3. investidores reagem a existencia da oferta
+4. oferta é agredida, e compatibilizada por uma ordem inversa e executada
+5. a oferta 2 é cancelada
 
 
+#
+
+#
+
+**Layering**
+
+Criminoso faz várias pequenas ofertas, criando camadas artificias no livro de oferta
+
+Spoofing e layering não dependem de **HFT** para ocorrer, e a utilização de HFT por si só corresponde a uma irregularidade
+
+**BSM Supervisão de Mercado faz um acompanhamento em tempo real** das operações ocorridas na B3
+
+#
+
+#
+
+**Manipulação de benchmark**
+
+há um incentivo intrínseco para que determinados agentes busquem influenciar esses índices a fim de se aproveitar do efeito positivo que a influência em questão geraria em seus contratos.
 
 
+Essa conduta por si só pode não ser considerada irregular, contudo, quando feita mediante operações simuladas ou fraudulentas, configura crime.
 
 
+#
+
+#
+
+**Uso indevido de informação privilegiada**
 
 
+#
+
+#
+
+**Insider trading primário**
+
+É quando alguém de dentro de uma empresa, ou seja, um insider, negocia papéis dessa mesma empresa com base em informações privilegiadas
 
 
+#
 
+#
+
+**Insider trading secundário**
+
+Quem de fato negocia é um terceiro que obteve desse agente, direta ou indiretamente, a informação privilegiada
+
+Para que a conduta seja verificada, é necessário que o agente:
+
+1. tenha tido acesso a informações privilegiadas sobre a companhia
+2. saiba que essas informações eram privilegiadas
+3. negocie com base nessas informações
+4. busque benefício financeiro para si ou para terceiro
+
+Um agente que não tenha relação com a companhia não pode ser acusado criminalmente de repasse de informação privilegiada
+
+#
+
+#
+
+**Exercício irregular**
+
+Penas de detenção de seis meses a dois anos e multa
+
+#
+
+#
+
+
+Um milhão e quinhentos mil reais representa o limite máximo de aplicação de multa Resolução CVM nº 62/22, até 3x o montante da vantagem ilícita
 
 
 
