@@ -111,3 +111,57 @@ Questionário deve ser atualizado a cada 24 meses
 - **Objetivos** (adequar necessidades, finalidade da aplicação)
 
 
+#
+
+**Etapas**
+
+1. **Necessidades do cliente**
+
+Buscar entender o que o cliente precisa, bem como o que conhece e é capaz de lidar em relação aos investimentos.\
+Ele está disposto a correr um pouco de risco em busca de um retorno maior, mesmo que isso represente perdas de parte do valor investido?
+
+#
+
+2. **Sugestão de produtos**
+
+Ter consideração ética para sugerir produtos adequados às necessidades e aos objetivos do cliente, buscando manter uma relação sustentável, e não predatória. Isso possibilita a construção de uma relação mais duradoura e estável do profissional com o cliente e do cliente com o mercado financeiro.
+
+
+#
+
+3. **Etica e Resposabilidade**
+
+Entender que a CVM proíbe que o profissional faça recomendações de produtos de investimentos para clientes com o perfil do investidor desatualizado, sem preenchimento ou se o produto não se enquadrar ao perfil do cliente. Caso o cliente insista em investir em um produto fora do seu perfil, precisará assinar um termo de responsabilidade em que informa que está ciente do desenquadramento.
+
+
+#
+
+#
+
+Suitability: objetivo e definição
+
+Identificar o perfil do investidor e atender às suas necessidades de investimento em sua plenitude, também buscando traçar seus interesses e particularidades
+
+#
+
+Processo de Suitability
+
+- Riscos (associado ao produto)
+- Perfil (dos emissores)
+- Garantias (existência de garantias)
+- Prazos (prazo de carência)
+
+#
+
+Ao final do processo, os produtos de investimento ofertados devem dar match com o perfil do investidor:
+
+perfil 1 – conservador (risco baixo)\
+perfil 2 – moderado (risco médio)\
+perfil 3 – arrojado (risco alto)
+
+
+
+
+
+
+
