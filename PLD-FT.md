@@ -1,5 +1,7 @@
 
-Operações com indícios de PLD/FT
+### Operações com indícios de PLD/FT
+
+#
 
 **Prevenção à Lavagem de Dinheiro** e combate ao **Financiamento do Terrorismo**
 
@@ -9,3 +11,84 @@ Operações com indícios de PLD/FT
 4. Operações no mercado de títulos e valores mobiliários com características de burla na identificação dos envolvidos.
 5. Operações entre mesmas partes ou em benefício das mesmas partes, com seguidos ganhos ou perdas de algum dos envolvidos.
 6. Operações a preços incompatíveis com o mercado ou realizadas por pessoa cuja atividade declarada e cujo perfil não se coadunem ao tipo de negociação realizada.
+
+#
+
+https://www.anbima.com.br/data/files/FA/56/46/16/74FD18106283BD186B2BA2A8/Guia%20ANBIMA%20PLDFTP_versao%2008.07_.pdf
+
+#
+
+https://www.anbima.com.br/pt_br/noticias/cvm-atualiza-diretrizes-de-prevencao-a-lavagem-de-dinheiro.htm
+
+#
+
+#
+
+### Etapas da lavagem de dinheiro
+
+#
+
+COI = Colocação Ocultação e Integração
+
+Inclusão do dinheiro no mercado financeiro
+
+- Fracionamento dos valores que transitam pelo sistema financeiro 
+- Aquisição de bens de alto valor com pagamento em espécie (em dinheiro)
+- Algumas vezes o valor é pago em dinheiro vivo de forma parcelada para que não seja percebido o grande valor da operação
+
+
+**Estratificação, ocultação ou dissimulação**, que consiste em dificultar o rastreamento contábil dos recursos ilícitos,\
+criando camadas complexas de transações financeiras ou comerciais
+
+Exemplo, em transferências eletrônicas, o dinheiro é transferido entre contas bancárias abertas em países diferentes,\
+de preferência aqueles amparados por leis de sigilo bancário.\
+Depósitos são feitos em contas nas quais os verdadeiros titulares não são identificados
+
+
+Integrar o dinheiro no sistema financeiro: organizações criminosas buscam investir em empreendimentos que facilitem suas atividades,\
+como, muitas vezes, em empresas e sociedades que prestam contas entre si. Isso se transforma em uma cadeia que passa a impressão de legalidade\
+e busca legitimar o dinheiro obtido de forma ilícita.
+
+#
+
+#
+
+Os meios mais utilizados na aplicação prática da lavagem de dinheiro são bancos, instituições financeiras não bancárias e empresas não financeiras\
+que, geralmente, lidam com bens de alto valor, assim como atividades que têm vulnerabilidades no processo de formação de preços, como:
+
+- investimentos em carros antigos
+- prestação de serviços de consultoria
+- investimentos em joias e pedras preciosas
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
