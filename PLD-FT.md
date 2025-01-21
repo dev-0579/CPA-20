@@ -66,7 +66,9 @@ que, geralmente, lidam com bens de alto valor, assim como atividades que têm vu
 
 #
 
-Conselho de Controle de Atividades Financeiras (Coaf): 
+### Conselho de Controle de Atividades Financeiras (Coaf): 
+
+#
 
 - ligado ao Ministério da Fazenda e formado por integrantes de vários órgãos do governo
 - Coaf tem a função de receber, examinar e identificar operações financeiras suspeitas
@@ -82,7 +84,10 @@ acompanhe como funciona a lei para a prevenção (Brasil, 2021).
 
 #
 
-Grupo de Ação Financeira (GAFI/FATF):
+### Grupo de Ação Financeira (GAFI/FATF):
+
+#
+
 
 - órgão intergovernamental contra a lavagem de dinheiro, criado em 1989
 - com o objetivo de examinar medidas, desenvolver e promover políticas para prevenir e
@@ -114,7 +119,9 @@ Envolvidos implementem sistemas de controle interno efetivos e eficientes sob a 
 
 
 
-**Abordagem Baseada em Risco (ABR)**
+### Abordagem Baseada em Risco (ABR)
+
+#
 
 Metodologia ajuda as empresas a otimizarem seus procedimentos e avaliarem os riscos de maneira mais tática 
 
@@ -125,7 +132,9 @@ ABR é um conjunto de normas para o combate às fraudes, como lavagem de dinheir
 
 #
 
-**Avaliação Interna de Riscos (AIR)**
+### Avaliação Interna de Riscos (AIR)
+
+#
 
 A rigor, o gerenciamento de riscos corporativos é um processo multidirecional e interativo segundo o qual quase todos os componentes\
 influenciam os outros. Em outras palavras, são forças internas ou externas que ameaçam o cumprimento dos objetivos e planos de negócios.
@@ -134,7 +143,9 @@ influenciam os outros. Em outras palavras, são forças internas ou externas que
 
 #
 
-Sistema de controle interno de PLD/FT
+### Sistema de controle interno de PLD/FT
+
+#
 
 Cada instituição deve implementar um conjunto de política e procedimentos internos que mitiguem o risco de ela ser usada inadvertidamente\
 para práticas relacionadas à lavagem de dinheiro. 
@@ -175,16 +186,20 @@ Executar imediatamente o bloqueio de ativos aos órgãos competentes (Bacen, CVM
 
 #
 
-As operações suspeitas devem ser **comunicadas ao Coaf no prazo de 24h**, **sem que o cliente tome ciência da denúncia** (Brasil, 2023a). 
+#
+
+### Operações suspeitas: como identificar
+
+#
+
+1. As operações suspeitas devem ser **comunicadas ao Coaf no prazo de 24h**, **sem que o cliente tome ciência da denúncia** (Brasil, 2023a). 
 
 Operações de **depósito ou aporte em espécie ou saque** valor **igual ou superior a R$ 50.000,00**
 
-Operações relativas a pagamentos, recebimentos e transferências de recursos por meio de qualquer instrumento,\
+2. Operações relativas a pagamentos, recebimentos e transferências de recursos por meio de qualquer instrumento,\
 **contra pagamento em espécie, de valor igual ou superior a R$ 50.000,00** 
 
-Solicitação de **provisionamento de saques em espécie de valor igual ou superior a R$ 50.000,00**
-
-#
+3. Solicitação de **provisionamento de saques em espécie de valor igual ou superior a R$ 50.000,00**
 
 #
 
@@ -195,13 +210,13 @@ As operações realizadas e os produtos e serviços contratados que — consider
 
 #
 
-PEPs
+**PEPs**
 
 As operações com pessoas expostas politicamente (PEPs) e com representantes, familiares ou estreitos colaboradores de PEPs.
 
 #
 
-FT 
+**FT **
 
 As operações e situações que possam indicar suspeitas de financiamento do terrorismo.
 
@@ -222,7 +237,9 @@ Ressaltamos que as instituições devem manter registros de todas as operações
 
 #
 
-Reporte de indícios de PL
+### Reporte de indícios de PL
+
+#
 
 No caso do mercado financeiro, as instituições devem reportar ao Coaf por meio do Siscoaf até o dia útil seguinte\
 em que forem identificadas ou classificadas como suspeitas após análise.
@@ -233,7 +250,9 @@ em que forem identificadas ou classificadas como suspeitas após análise.
 
 #
 
-**Penalidades para quem incorre no crime**
+### Penalidades para quem incorre no crime
+
+#
 
 Reclusão de 3 a 10 anos, podendo ser aumentada de **um a dois terços e multa**
 
@@ -249,6 +268,9 @@ Setores da economia que são mais utilizados para a consecução do crime:
 - Instituições financeiras
 - Paraisos fiscais
 - Centros offshore
+- Bolsa de Valores
+- Mercado Imobiliario
+- Seguros, Capitalização e Previdencia Privada
 
 #
 
