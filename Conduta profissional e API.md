@@ -176,14 +176,19 @@ Passo 2 - Seja obtida uma declaração expressa do cliente de que está ciente d
 
 #
 
-Crime contra o mercado de capitais
+#
+
+### Crime contra o mercado de capitais
+
+#
 
 Realizar operações simuladas ou executar outras manobras fraudulentas destinadas a elevar, manter ou baixar a cotação,\
 o preço ou o volume negociado de um valor mobiliário, com o fim de obter vantagem indevida ou lucro, para si ou para outrem, ou causar danos a terceiros.
 
 
-São aplicáveis a essa conduta as penas de reclusão de 1 a 8 anos, e multa de até três vezes o montante da vantagem ilícita\
-obtida em decorrência do crime. Tal conduta possui três elementos centrais:
+**Penas de reclusão de 1 a 8 anos, e multa de até três vezes o montante da vantagem ilícita** obtida em decorrência do crime.
+
+Tal conduta possui três elementos centrais:
 
 1. agir de maneira simulada ou fraudulenta
 2. causar um efeito no preço ou volume dos valores mobiliários negociados
@@ -191,6 +196,54 @@ obtida em decorrência do crime. Tal conduta possui três elementos centrais:
 
 Por suas caraterísticas básicas, trata-se de um crime que pode ser cometido por qualquer pessoa, física ou jurídica,\
 um profissional de mercado, um investidor ou mesmo uma instituição regulada.
+
+
+#
+
+#
+
+**Integridade na especulação**
+
+O que diferencia a especulação da manipulação é que, na especulação: expectativa de ganho financeiro, o especulador assume os riscos de variação de preços\
+enquanto o manipulador tenta agir ativamente para eliminar os riscos de sua operação mediante atos ilícitos de tentativa de alteração do funcionamento natural do mercado.
+
+
+#
+
+**Transparência na estabilização**
+
+Diferenciar manipulação de preços da prática regular de estabilização de preços.
+
+Volatilidade dos preços e a liquidez (ou iliquidez) dos papéis no mercado financeiros impactam vários investidores.
+
+O próprio regulador prevê que intermediários e emissores de valores mobiliários podem atuar na tentativa de manter os preços dentro de determinado intervalo. 
+
+Essa ação é feita de forma transparente e regulada, com finalidade legítima de mitigar efeitos potencialmente negativos da volatilidade dos preços.
+
+
+#
+
+#
+
+**Spoofing**
+
+O agente que insere a ordem em questão nos mercados organizados de valores mobiliários não tem a intenção de realizar tal operação.\
+Ele apenas deseja inserir um elemento de desinformação no mercado a fim de influenciar o comportamento dos demais agentes e o preço de determinado ativo
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
