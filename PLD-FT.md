@@ -95,22 +95,40 @@ Grupo de Ação Financeira (GAFI/FATF):
 
 #
 
-#
 
 <img width="742" alt="image" src="https://github.com/user-attachments/assets/f10e8cfb-373a-46a2-a301-0c51db44b1a2" />
 
 
 #
 
+Uma das principais atualizações introduzidas pelas atuais normas relacionadas à PLD/FT diz respeito ao processo de avaliação de riscos\
+e aplicação de uma abordagem baseada no risco.
+
+Envolvidos implementem sistemas de controle interno efetivos e eficientes sob a perspectiva de custo regulatório, ou seja, que considerem:
+
+- o tamanho
+- a complexidade dos produtos e serviços oferecidos pela instituição
+- outros aspectos relacionados à cultura de PLD/FT da instituição
+
 #
 
 
 
+**Abordagem Baseada em Risco (ABR)**
+
+Esta metodologia ajuda as empresas a otimizarem seus procedimentos e avaliarem os riscos de maneira mais tática. 
+
+O objetivo é a implementação de medidas mais reforçadas onde os riscos são maiores, bem como medidas simplificadas onde os riscos são menores
+
+ABR é um conjunto de normas para o combate às fraudes, como lavagem de dinheiro e financiamento ao terrorismo.
 
 
+#
 
+**Avaliação Interna de Riscos (AIR)**
 
-
+A rigor, o gerenciamento de riscos corporativos é um processo multidirecional e interativo segundo o qual quase todos os componentes\
+influenciam os outros. Em outras palavras, são forças internas ou externas que ameaçam o cumprimento dos objetivos e planos de negócios.
 
 
 
