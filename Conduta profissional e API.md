@@ -204,8 +204,8 @@ um profissional de mercado, um investidor ou mesmo uma instituição regulada.
 
 **Integridade na especulação**
 
-O que diferencia a especulação da manipulação é que, na especulação: expectativa de ganho financeiro, o especulador assume os riscos de variação de preços\
-enquanto o manipulador tenta agir ativamente para eliminar os riscos de sua operação mediante atos ilícitos de tentativa de alteração do funcionamento natural do mercado.
+O que diferencia a especulação da manipulação é que, na especulação: especulador assume os riscos de variação de preços\
+enquanto o manipulador tenta ativamente eliminar os riscos de sua operação mediante atos ilícitos de alteração do funcionamento do mercado
 
 
 #
@@ -216,7 +216,7 @@ Diferenciar manipulação de preços da prática regular de estabilização de p
 
 Volatilidade dos preços e a liquidez (ou iliquidez) dos papéis no mercado financeiros impactam vários investidores.
 
-O próprio regulador prevê que intermediários e emissores de valores mobiliários podem atuar na tentativa de manter os preços dentro de determinado intervalo. 
+O regulador prevê que intermediários e emissores de valores mobiliários podem atuar na tentativa de manter os preços dentro de determinado intervalo. 
 
 Essa ação é feita de forma transparente e regulada, com finalidade legítima de mitigar efeitos potencialmente negativos da volatilidade dos preços.
 
@@ -228,7 +228,7 @@ Essa ação é feita de forma transparente e regulada, com finalidade legítima 
 **Spoofing**
 
 O agente que insere a ordem em questão nos mercados organizados de valores mobiliários não tem a intenção de realizar tal operação.\
-Ele apenas deseja inserir um elemento de desinformação no mercado a fim de influenciar o comportamento dos demais agentes e o preço de determinado ativo
+apenas deseja inserir um elemento de desinformação no mercado a fim de influenciar o comportamento dos demais agentes e o preço do ativo
 
 
 
