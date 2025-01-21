@@ -73,7 +73,7 @@ Você deve respeitar o poder de liberdade de escolha, assim como avaliar o perfi
 
 #
 
-práticas são permitidas, como:
+**Práticas são permitidas, como:**
 
 **Cross-selling**
 
@@ -86,12 +86,28 @@ as preferências e os hábitos de consumo, sem qualquer obrigatoriedade de contr
 
 Ocorre quando você oferece um produto ou serviço mais completo, mais atrativo e mais aderente ao cliente.
 
+Nas duas práticas, a aquisição ou contratação é sempre opcional ao cliente e, portanto, está em conformidade com a legislação brasileira.
+
+#
+
+#
 
 
+### Análise de perfil do investidor (API)
 
+#
 
+metodologia que visa ajudar a identificar o perfil das pessoas e a verificar a adequação de seus investimentos em relação a seus objetivos,\
+sua situação financeira e seu conhecimento sobre os produtos de investimento, atendendo à Resolução CVM nº 30 de 2021 (Brasil, 2021)
 
+#
 
+Questionário deve ser atualizado a cada 24 meses
 
+**API deve abranger**
+
+- **Finanças** (situacao financeira)
+- **Experiencia** (em produtos, investimentos, frequencia que investe, etc)
+- **Objetivos** (adequar necessidades, finalidade da aplicação)
 
 
