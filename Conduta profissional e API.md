@@ -159,9 +159,38 @@ perfil 1 – conservador (risco baixo)\
 perfil 2 – moderado (risco médio)\
 perfil 3 – arrojado (risco alto)
 
+#
+
+Cliente deseja investir em um produto fora do seu perfil?
+
+Passo 1 - O cliente seja alertado sobre a ausência, desatualização ou inadequação do seu perfil (qualquer que seja o caso), com a indicação das causas da divergência.
+
+Passo 2 - Seja obtida uma declaração expressa do cliente de que está ciente da ausência, desatualização ou inadequação de perfil de investidor.
 
 
+#
 
+#
+
+### Manipulação de mercado
+
+#
+
+Crime contra o mercado de capitais
+
+Realizar operações simuladas ou executar outras manobras fraudulentas destinadas a elevar, manter ou baixar a cotação,\
+o preço ou o volume negociado de um valor mobiliário, com o fim de obter vantagem indevida ou lucro, para si ou para outrem, ou causar danos a terceiros.
+
+
+São aplicáveis a essa conduta as penas de reclusão de 1 a 8 anos, e multa de até três vezes o montante da vantagem ilícita\
+obtida em decorrência do crime. Tal conduta possui três elementos centrais:
+
+1. agir de maneira simulada ou fraudulenta
+2. causar um efeito no preço ou volume dos valores mobiliários negociados
+3. prejudicar um terceiro ou beneficiar a si próprio ou um outro terceiro
+
+Por suas caraterísticas básicas, trata-se de um crime que pode ser cometido por qualquer pessoa, física ou jurídica,\
+um profissional de mercado, um investidor ou mesmo uma instituição regulada.
 
 
 
